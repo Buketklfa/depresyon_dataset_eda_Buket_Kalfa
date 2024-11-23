@@ -1,6 +1,8 @@
 # depresyon_dataset_eda_Buket_Kalfa
 Veri Kümesi Hakkında
 
+[Kaggle Linki] (https://www.kaggle.com/code/buketkalfa/depresyon-dataset-eda)
+
 ## Veri Kümesi Genel Bakış (Sentetik):
 
 Bu veri kümesi, bireylerin kişisel ve yaşam tarzı faktörleriyle ilgili çeşitli özelliklerini içermektedir. Sağlık, yaşam tarzı ve sosyo-ekonomik durum gibi alanlarda analiz yapmayı kolaylaştırmak için tasarlanmıştır.
